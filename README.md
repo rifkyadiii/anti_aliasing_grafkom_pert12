@@ -28,8 +28,10 @@ Skrip dalam repositori ini mengilustrasikan:
 1.  Pastikan Anda telah menginstal Python 3.x.
 2.  Clone repositori ini (jika Anda mengunggahnya ke GitHub):
     ```bash
-    git clone [https://github.com/rifkyadiii/anti_aliasing_grafkonm_pert12.git]
-    cd [anti_aliasing_grafkom_pert12]
+    git clone https://github.com/rifkyadiii/anti_aliasing_grafkonm_pert12.git
+    ```
+    ```bash
+    cd anti_aliasing_grafkom_pert12
     ```
 3.  Instal pustaka Pillow menggunakan pip:
     ```bash
